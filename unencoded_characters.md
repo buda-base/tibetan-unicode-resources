@@ -11,8 +11,9 @@ The translation of a Sanskrit treatise about syllable length is using a specific
 (Derge Tengyur, vol. 197, p. 361a et seq.)
 
 In this case, we propose to use the Devanagari equivalents:
-- `ऽ` for heavy (`ऽं` when with anusvara)
-- `।` for light (`।ं` when with anusvara)
+- `093D` (ऽ) for heavy syllable (`093D 0902`, ऽं when with anusvara)
+- `0964` (।) for light syllable (`0964 0902`, ।ं when with anusvara)
 
-#### Terton marks
+### Characters advertised on THL
 
+See the [THL page on unencoded characters](http://www.thlib.org/reference/transliteration/#!essay=/thl/ewts/7/).

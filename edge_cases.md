@@ -18,10 +18,6 @@ The description of 0FB0 in the [Unicode Chart](https://unicode.org/charts/PDF/U0
 
 Some manuscripts use a shortcut for the `གས` suffix by using a special subscript form of sa, see for instance Lhasa Kangyur, vol. 1, p. 8:
 
-![0FB0 0FB1](images/0fb00fb1.png?raw=true)
+![0FB0 0FB1](images/abbr-sa.png?raw=true)
 
 This special form of sbuscript sa is clearly distinct from the regular subscript sa (0FB6). There is not way to distinguish the two forms in Unicode.
-
-### Characters advertised on THL
-
-See the [THL page on unencoded characters](http://www.thlib.org/reference/transliteration/#!essay=/thl/ewts/7/).
