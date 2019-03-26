@@ -4,7 +4,7 @@ This file lists characters appearing in Tibetan texts that cannot currently be r
 
 #### Sanskrit syllable length notation
 
-The translation of a [Sanskrit prosody](https://en.wikipedia.org/wiki/Sanskrit_prosody) treatise is using a specific representation of syllable weight (light/heavy , lagu/guru) notation that differs slightly from the Devanagari one:
+The translation of a [Sanskrit prosody](https://en.wikipedia.org/wiki/Sanskrit_prosody) treatise is using a specific representation of syllable weight (light/heavy , laghu/guru) notation that differs slightly from the Devanagari one:
 
 ![syllable length notation](images/metrics.png?raw=true)
 
