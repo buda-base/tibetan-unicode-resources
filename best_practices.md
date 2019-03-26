@@ -10,7 +10,7 @@ These characters are composed characters that are not equivalent to their decomp
 - `0F02` (༂) is not equivalent to `0F60 0F74 0F82 0F7F` (འུྂཿ)
 - `0F03` (༃) is not equivalent to `0F60 0F74 0F82 0F14` (འུྂ༔)
 
-See [this deprecation proposal](https://www.unicode.org/L2/L2018/18078-tibetan-depr.pdf) for more info, and [http://www.unicode.org/L2/L2018/18241-script-ad-hoc.pdf](the answer) (p.21).
+See [this Unicode policy](https://www.unicode.org/L2/L2011/11308-policy-on-om-characters.pdf), [this deprecation proposal](https://www.unicode.org/L2/L2018/18078-tibetan-depr.pdf) for more info, and [http://www.unicode.org/L2/L2018/18241-script-ad-hoc.pdf](the answer) (p.21).
 
 In these cases, we propose to always use the decomposed form instead of the precomposed one.
 
