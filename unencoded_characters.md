@@ -16,6 +16,8 @@ In this case, we propose to use the Devanagari equivalents:
 
 These signs are, to the best of our knowledge, only found in Sanskrit prosody treatises, there is no equivalent for the Tibetan language.
 
-### Characters advertised on THL
+### Terma and shorthands
 
-See the [THL page on unencoded characters](http://www.thlib.org/reference/transliteration/#!essay=/thl/ewts/7/).
+For terma and shorthand characters, see the dedicated pages:
+- [terma-scripts.md](terma-scripts.md)
+- [shorthands/shorthands.md](shorthands/shorthands.md)
