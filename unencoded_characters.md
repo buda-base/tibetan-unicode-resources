@@ -20,4 +20,4 @@ These signs are, to the best of our knowledge, only found in Sanskrit prosody tr
 
 For terma and shorthand characters, see the dedicated pages:
 - [terma-scripts.md](terma-scripts.md)
-- [shorthands/shorthands.md](shorthands/shorthands.md)
+- [shorthands/](shorthands/)
