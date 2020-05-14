@@ -4,6 +4,11 @@ Tibetan has a tradition of shorthands that are for some part impossible to encod
 
 Unless indicated otherwise, the images come from vol. 5 of [བླ་མ་དགོངས་འདུས།](http://tbrc.org/link?RID=W23445)
 
+##### ms suffix
+
+![khams](images/khams.jpg?raw=true) is short for ཁམས, the diacritics cannot be encoded
+
+
 ##### ji tar
 
 ![ji tar](images/ji-tar.png?raw=true) is short for ཇི་ཏར, it can be encoded as `0F47 0F9F 0F72 0F62` (ཇྟིར)
