@@ -28,4 +28,6 @@ The reversed shabkyu seems to be extremely rare and only a matter of style but c
 
 ![what](images/what.png?raw=true)
 
-coming from the Namgyal Canonical manuscripts (W2KG229028, volume 28, image 199).
+![ishabkyu](images/ishabkyu.jpg?raw=true)
+
+coming from the Namgyal Canonical manuscripts (W2KG229028, volume 28 image 199, volume 30 page 191).
