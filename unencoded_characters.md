@@ -21,3 +21,11 @@ These signs are, to the best of our knowledge, only found in Sanskrit prosody tr
 For terma and shorthand characters, see the dedicated pages:
 - [terma-scripts.md](terma-scripts.md)
 - [shorthands/](shorthands/)
+
+### Reversed shabkyu
+
+The reversed shabkyu seems to be extremely rare and only a matter of style but can be found, for instance in
+
+![what](images/what.png?raw=true)
+
+coming from the Namgyal Canonical manuscripts (W2KG229028, volume 28, image 199).

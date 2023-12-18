@@ -21,3 +21,11 @@ These pose a rendering problem because layout system will reorder characters in 
 - `0F74 0F71` into `0F71 0F74`, so that the achung get before the shabkyu
 
 The description of 0FB0 in the [Unicode Chart](https://unicode.org/charts/PDF/U0F00.pdf) doesn't seem to correspond to the form we encounter, as it states *only used for full-sized subjoined letter*, while in our case this is clearly not a full formed letter, but a regular small achung.
+
+### Diacritics on punctuation
+
+Punctuation can sometimes take a diacritic:
+
+![gigu](images/gigu.jpg?raw=true)
+
+coming from the Namgyal Canonical manuscripts (W2KG229028, volume 28, image 199).
